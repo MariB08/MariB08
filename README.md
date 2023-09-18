@@ -1,4 +1,6 @@
-### Hi there 👋
+# Sobre mim
+-Olá sou a Mariana Bernardino.
+-sou aluna de pensamento computacional do 1 ano A.
 
 <!--
 **MariB08/MariB08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
